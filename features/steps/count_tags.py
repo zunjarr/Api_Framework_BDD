@@ -195,4 +195,3 @@ for dictionary in json_response['results']:
     # else:
     #     print('There is no such ticket title having word DIR')
 
-# 'https://integrichain.zendesk.com/api/v2/users/4578807155981/tickets/requested.json?include=comment_count,first_comment,last_comment,users&per_page=10&sort_order=desc&sort_by=id&exclude_count=true&exclude_archived=true'
